@@ -6,13 +6,11 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
-
 header {
     background-color: #333;
     color: white;
     padding: 10px 0;
 }
-
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -20,17 +18,14 @@ nav ul {
     display: flex;
     justify-content: center;
 }
-
 nav ul li {
     margin: 0 20px;
 }
-
 nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
-
 /* Hero Section */
 .hero {
     background-color: #2ecc71;
@@ -38,11 +33,9 @@ nav ul li a {
     text-align: center;
     padding: 50px 20px;
 }
-
 .hero h1 {
     margin: 0;
 }
-
 /* Resume Section */
 .resume, .bio {
     padding: 20px;
@@ -51,25 +44,20 @@ nav ul li a {
     background-color: white;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-
 .resume h2, .bio h2 {
     color: #2ecc71;
 }
-
 .resume ul, .bio ul {
     padding-left: 20px;
 }
-
 .resume li, .bio li {
     margin: 5px 0;
 }
-
 .profile-pic {
     max-width: 150px;
     border-radius: 50%;
     margin: 20px 0;
 }
-
 /* Footer */
 footer {
     background-color: #333;
